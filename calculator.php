@@ -222,7 +222,7 @@ else{
 
         <div  style="display: inline-block; position: absolute; left: 46%">
 
-            <p style=""><?php if(!empty($_GET)){ if(isset($_GET['eq'])){  echo $object3;}}?></p>
+            <p style="font-size: 280%"><?php if(!empty($_GET)){ if(isset($_GET['eq'])){  echo $object3;}}?></p>
 
         </div>
     </form>
